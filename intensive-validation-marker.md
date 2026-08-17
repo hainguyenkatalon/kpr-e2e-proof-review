@@ -1,3 +1,3 @@
 # Intensive validation
 
-Rapid update sequence: 1
+Rapid update sequence: 2
