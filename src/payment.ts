@@ -1,1 +1,3 @@
-export async function persistPayment(orderId: string): Promise<{ status: string }> {\n  return { status: `paid:${orderId}` };\n}\n
+export async function persistPayment(orderId: string): Promise<{ status: string }> {
+  return { status: `paid:${orderId}` };
+}
