@@ -1,3 +1,3 @@
 # Intensive validation
 
-Controlled worker failure publication
+Recovery after controlled worker failure
