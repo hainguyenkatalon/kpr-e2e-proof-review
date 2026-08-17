@@ -1,3 +1,3 @@
 # Intensive validation
 
-Rapid update sequence: 3
+Controlled worker failure publication
