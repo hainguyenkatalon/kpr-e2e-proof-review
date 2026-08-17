@@ -4,5 +4,6 @@ test("customer successfully pays", async ({ page }) => {
   await page.goto("/checkout");
   await page.getByLabel("Card number").fill("4242424242424242");
   await page.getByRole("button", { name: "Pay" }).click();
+  await page.waitForTimeout(500);
   await expect(page.getByText("Payment successful")).toBeVisible();
 });
