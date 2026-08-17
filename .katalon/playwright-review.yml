@@ -1,1 +1,5 @@
-semantic:\n  enabled: true\nreview:\n  drafts: false\n  maxInlineComments: 8\n# Live KPR verification with bounded Git history.\n
+semantic:
+  enabled: true
+review:
+  drafts: false
+  maxInlineComments: 8
