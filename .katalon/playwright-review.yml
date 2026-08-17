@@ -1,0 +1,1 @@
+semantic:\n  enabled: true\nreview:\n  drafts: false\n  maxInlineComments: 8\n# Live KPR replay after webhook contract validation.\n
