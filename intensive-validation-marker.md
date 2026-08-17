@@ -1,3 +1,3 @@
 # Intensive validation
 
-Semantic deduplication proof 1
+Semantic deduplication proof 2
