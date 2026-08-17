@@ -1,3 +1,3 @@
 # Intensive validation
 
-Recovery after controlled worker failure
+Final exact release verification
