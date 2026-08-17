@@ -1,3 +1,3 @@
 # Intensive validation
 
-Final exact release verification
+Semantic deduplication proof 1
